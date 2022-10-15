@@ -1,40 +1,40 @@
 ﻿Score,Gender,Age,Educational qualifications,"Does family have a history of substance abuse, especially from a close relative like a grandparent, parent, or sibling?",Do you live with someone who has a habit of using drugs?,"Do you have friends or family that use drugs, especially those that use these substances in front of you?",Did you grow up or are currently in an area of poverty or low socioeconomic status?,"Growing up, were parents rarely around, and did they not provide much supervision, discipline, or guidance?","Growing up (or currently), did you have drugs around you that you could easily access or that is frequently offered to you?","Do you have a history of, or do you currently struggle with, a mental illness, such as personality disorder, Anxiety, depression, or schizophrenia?","are you currently experiencing a significant transition in life, such as divorce, loss of a loved one, loss of a job, or changing schools?","Do you have a history of childhood trauma, such as a history of physical, mental, or sexual abuse?",Did you start using drugs or drinking alcohol (even if it was only every once in a while) before you were a teenager?
-3 / 10,Male,18-30,A/L,Yes,Yes,No,Yes,No,No,No,Yes,No,No
-5 / 10,Male,18-30,A/L,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No
-4 / 10,Male,less than 18,O/L,Yes,No,Yes,No,No,No,Yes,No,No,Yes
-5 / 10,Male,18-30,A/L,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes
-5 / 10,Female,18-30,A/L,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No
-4 / 10,Male,18-30,A/L,No,No,Yes,Yes,No,No,Yes,No,Yes,No
-6 / 10,Male,more than 30,Undergraduate,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No
-5 / 10,Male,more than 30,O/L,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No
-6 / 10,Female,18-30,Undergraduate,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No
-4 / 10,Female,18-30,A/L,No,No,No,Yes,Yes,No,No,Yes,Yes,No
-5 / 10,Female,less than 18,O/L,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No
-4 / 10,Female,18-30,Undergraduate,Yes,Yes,No,Yes,No,No,No,Yes,No,No
-5 / 10,Female,18-30,Undergraduate,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes
-6 / 10,Female,less than 18,O/L,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes
-8 / 10,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
-4 / 10,Female,more than 30,A/L,No,No,Yes,Yes,Yes,No,No,No,Yes,No
-6 / 10,Male,18-30,Primary education,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No
-8 / 10,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
-8 / 10,Male,18-30,Postgraduate,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
-6 / 10,Male,18-30,A/L,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No
-7 / 10,Male,18-30,A/L,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
-8 / 10,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
-7 / 10,Male,more than 30,Postgraduate,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
-9 / 10,Male,18-30,Undergraduate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-10 / 10,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-9 / 10,Male,18-30,Primary education,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-7 / 10,Male,18-30,Undergraduate,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
-10 / 10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-9 / 10,Male,18-30,Primary education,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-8 / 10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
-10 / 10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-9 / 10,Male,18-30,O/L,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
-10 / 10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-10 / 10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-9 / 10,Male,more than 30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
-9 / 10,Male,18-30,O/L,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
-9 / 10,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
-10 / 10,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-9 / 10,Male,18-30,Primary education,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+3,Male,18-30,A/L,Yes,Yes,No,Yes,No,No,No,Yes,No,No
+5,Male,18-30,A/L,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No
+4,Male,less than 18,O/L,Yes,No,Yes,No,No,No,Yes,No,No,Yes
+5,Male,18-30,A/L,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes
+5,Female,18-30,A/L,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No
+4,Male,18-30,A/L,No,No,Yes,Yes,No,No,Yes,No,Yes,No
+6,Male,more than 30,Undergraduate,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No
+5,Male,more than 30,O/L,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No
+6,Female,18-30,Undergraduate,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No
+4,Female,18-30,A/L,No,No,No,Yes,Yes,No,No,Yes,Yes,No
+5,Female,less than 18,O/L,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No
+4,Female,18-30,Undergraduate,Yes,Yes,No,Yes,No,No,No,Yes,No,No
+5,Female,18-30,Undergraduate,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+6,Female,less than 18,O/L,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+8,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+4,Female,more than 30,A/L,No,No,Yes,Yes,Yes,No,No,No,Yes,No
+6,Male,18-30,Primary education,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No
+8,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+8,Male,18-30,Postgraduate,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes
+6,Male,18-30,A/L,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No
+7,Male,18-30,A/L,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes
+8,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+7,Male,more than 30,Postgraduate,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes
+9,Male,18-30,Undergraduate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+10,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,Male,18-30,Primary education,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+7,Male,18-30,Undergraduate,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No
+10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,Male,18-30,Primary education,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+8,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,Male,18-30,O/L,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes
+10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+10,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,Male,more than 30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+9,Male,18-30,O/L,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+9,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+10,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+9,Male,18-30,Primary education,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
